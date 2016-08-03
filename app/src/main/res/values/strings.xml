@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aliment Detective</string>
+    <string name="image_for_main_activity">image for main activity</string>
+    <string name="nom_de_l_aliment">Nom de l\'aliment</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="food_picture">Food Picture</string>
+    <string name="voir_ma_liste">Voir ma Liste</string>
+    <string name="recherche">Recherche</string>
+    <string name="title_activity_result_search">ResultSearchActivity</string>
+    <string name="product_image">Product Image</string>
+    <string name="rechercher_votre_produit">Rechercher votre produit...</string>
+    <string name="ou">Ou</string>
+    <string name="scanner_votre_produit">Scanner votre produit</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="egg">Egg</string>
+</resources>
